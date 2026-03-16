@@ -1,2 +1,16 @@
-# ecommerce-precision-marketing-rfm-tp
-RFM-TP电商用户价值分层模型 | 补充浏览时长/页面数优化用户分层，输出精准营销策略（E-commerce user segmentation with browsing behavior for precision marketing）
+# RFM-TP 用户价值分层模型
+
+## 项目简介
+基于传统 RFM 模型补充浏览时长（T）和浏览页面数（P）维度，构建 RFM-TP 电商用户价值分层模型，将用户分为 32 类并输出差异化运营策略。
+
+## 核心功能
+1. 计算 R/F/M/T/P 评分；
+2. 用户分层标签生成；
+3. 分层结果可视化（柱状图）；
+4. 基于分层的精准营销策略建议。
+
+## 技术栈
+Python、Pandas、Matplotlib/Seaborn
+
+## 业务价值
+识别出原 RFM 模型中被忽视的 13.6% 高潜力低价值用户，优化营销资源分配优先级。
