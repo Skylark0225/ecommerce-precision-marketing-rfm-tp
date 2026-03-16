@@ -1,8 +1,9 @@
 # RFM-TP 用户价值分层模型
 
 ## 项目简介
-基于传统 RFM 模型补充浏览时长（T）和浏览页面数（P）维度，构建 RFM-TP 电商用户价值分层模型，将用户分为 32 类并输出差异化运营策略。<br>
+基于传统 RFM 模型补充浏览时长（T）和浏览页面数（P）维度，构建 RFM-TP 电商用户价值分层模型，将用户分为 32 类并输出差异化运营策略。
 具体请查看本仓库中的 user_personalized_features.csv 文件。<br>
+<br>
 本项目数据集来源于Kaggle公开数据集，链接：https://www.kaggle.com/datasets/kartikeybartwal/ecommerce-product-recommendation-collaborative
 
 ## 核心功能
